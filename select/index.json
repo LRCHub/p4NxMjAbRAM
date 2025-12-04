@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "What an amazing swing",
+  "base_artist": "角巻わため",
+  "createdAt": "2025-12-04T08:04:59.889410Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What an amazing swing",
+      "artist": "角巻わため",
+      "has_synced": true,
+      "path": "select/01_What_an_amazing_swing_角巻わため.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What an amazing swing",
+      "artist": "角巻わため",
+      "has_synced": true,
+      "path": "select/02_What_an_amazing_swing_角巻わため.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What an amazing swing",
+      "artist": "角巻わため",
+      "has_synced": false,
+      "path": "select/pl_01_What_an_amazing_swing_角巻わため.txt"
+    }
+  ]
+}
